@@ -20,5 +20,3 @@
 
 <hr>
    </div>
-  
-![Snake animation](https://github.com/lucasmatheuz/lucasmatheuz/blob/output/github-contribution-grid-snake.svg)
