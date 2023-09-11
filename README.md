@@ -27,14 +27,6 @@ Olá! Sou o Lucas Matheus, um entusiasta da Engenharia de Software de 25 anos co
 
 Atualmente, estou cursando Engenharia de Software na Universidade de Vassouras, onde estou adquirindo uma sólida base teórica e prática em desenvolvimento de software. A cada dia, busco aprender mais e me manter atualizado com as últimas tendências e tecnologias do setor.
 
-💼 Experiência Profissional 💼
-
-Embora ainda esteja na fase de estudos, já tive a oportunidade de trabalhar em projetos acadêmicos desafiadores, o que me permitiu aplicar meus conhecimentos em situações do mundo real. Além disso, estou sempre em busca de oportunidades de estágio ou colaborações para expandir minha experiência.
-
-💡 Objetivos 💡
-
-Meu objetivo principal é tornar-me um desenvolvedor de software altamente qualificado e contribuir para projetos inovadores que tenham um impacto positivo na sociedade. Estou ansioso para trabalhar com equipes talentosas e aprender com profissionais experientes no campo.
-
 🚀 Próximos Passos 🚀
 
 Estou aberto a networking e oportunidades de crescimento. Se você está interessado em conectar-se comigo ou discutir colaborações potenciais, não hesite em entrar em contato. Vamos juntos construir um futuro incrível na engenharia de software!
