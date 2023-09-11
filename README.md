@@ -18,9 +18,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 <hr>
-👨‍💻 Lucas Matheus | Estudante de Engenharia de Software | Apaixonado por Programação 🚀
-
-📍 Localização: Vassouras, RJ
 
 🔹 Sobre Mim 🔹
 
@@ -43,10 +40,10 @@ Meu objetivo principal é tornar-me um desenvolvedor de software altamente quali
 Estou aberto a networking e oportunidades de crescimento. Se você está interessado em conectar-se comigo ou discutir colaborações potenciais, não hesite em entrar em contato. Vamos juntos construir um futuro incrível na engenharia de software!
 
 📧 Contato 📧
+<div>
+<img src="https://github.com/lucasmatheuz/lucasmatheuz/assets/38428386/20232ad1-38ed-4f51-8a42-c490b7975595" width="15px"/>: lks-matheus@hotmail.com
 
-E-mail: lks-matheus@hotmail.com
-
-file:///home/lucas/Downloads/li.png : https://www.linkedin.com/in/lucas-matheus-14377a23b/
-
+<img src="https://github.com/lucasmatheuz/lucasmatheuz/assets/38428386/391eb101-d278-4812-a5c2-9a0634b555b6" width="15px"/>: https://www.linkedin.com/in/lucas-matheus-14377a23b/
+</div>
 <hr>
    </div>
