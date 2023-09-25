@@ -1,8 +1,12 @@
 ## Olá eu sou o Lucas 👋
 <div>
   
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmatheuz&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  |  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lucasmatheuz&hide=prs,issues,contribs&count_private=true&show_icons=true)  |
-| ------------------- | ------------------- |
+<div align="center">
+  <a href="https://github.com/carloscfas">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasmatheuz&theme=dark&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmatheuz&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
+  </div>
+ 
 
 </div>
 
