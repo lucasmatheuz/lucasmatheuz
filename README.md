@@ -1,4 +1,4 @@
-## Olá eu sou o Lucas 👋
+## Lucas Matheus 👋
 <div>
   
 <div align="center">
@@ -25,19 +25,14 @@
 
 <hr>
 
-🔹 Sobre Mim 🔹
+🔹 Desenvolvedor de Software | Apaixonado por criar soluções inovadoras 🔹
 
-Olá! Sou o Lucas Matheus, um entusiasta da Engenharia de Software de 25 anos com uma paixão ardente pela programação e uma forte vontade de crescer na minha carreira como desenvolvedor.
+Sou um Desenvolvedor de Software cursando Engenharia de Software na Universidade de Vassouras. Com uma base sólida em desenvolvimento e uma paixão por aprender, estou constantemente buscando novos desafios para aprimorar minhas habilidades e construir tecnologias que fazem a diferença.
 
-🎓 Formação 🎓
+🎯 Meus Objetivos
+Atualmente, estou focado em aprofundar meus conhecimentos em arquitetura de software e boas práticas de desenvolvimento. Estou em busca de oportunidades onde eu possa colaborar em projetos desafiadores, aprender com desenvolvedores experientes e contribuir para a criação de produtos de alta qualidade.
 
-Atualmente, estou cursando Engenharia de Software na Universidade de Vassouras, onde estou adquirindo uma sólida base teórica e prática em desenvolvimento de software. A cada dia, busco aprender mais e me manter atualizado com as últimas tendências e tecnologias do setor.
-
-🚀 Próximos Passos 🚀
-
-Estou aberto a networking e oportunidades de crescimento. Se você está interessado em conectar-se comigo ou discutir colaborações potenciais, não hesite em entrar em contato. Vamos juntos construir um futuro incrível na engenharia de software!
-
-📧 Contato 📧
+📫 Conecte-se Comigo
 <div>
 <img src="https://github.com/lucasmatheuz/lucasmatheuz/assets/38428386/20232ad1-38ed-4f51-8a42-c490b7975595" width="15px"/>: lks-matheus@hotmail.com
 
