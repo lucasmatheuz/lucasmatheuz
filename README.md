@@ -16,8 +16,8 @@
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center"> Melhores Tecnologias <3</h1>
 
-![Django](https://img.shields.io/badge/-Python-black?style=flat-square&logo=django)
-![React](https://img.shields.io/badge/-Python-black?style=flat-square&logo=React)
+![Django](https://img.shields.io/badge/?style=flat-square&logo=django)
+![React](https://img.shields.io/badge/?style=flat-square&logo=React)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
